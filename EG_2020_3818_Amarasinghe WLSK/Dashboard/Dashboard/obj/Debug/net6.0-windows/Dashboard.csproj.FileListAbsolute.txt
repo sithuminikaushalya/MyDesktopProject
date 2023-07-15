@@ -1,0 +1,90 @@
+C:\Users\LENOVO\source\repos\Dashboard\Dashboard\obj\Debug\net6.0-windows\Dashboard.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\Dashboard\Dashboard\obj\Debug\net6.0-windows\Styles\Button.baml
+C:\Users\LENOVO\source\repos\Dashboard\Dashboard\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\LENOVO\source\repos\Dashboard\Dashboard\obj\Debug\net6.0-windows\PopupUserControl.g.cs
+C:\Users\LENOVO\source\repos\Dashboard\Dashboard\obj\Debug\net6.0-windows\Styles\DataGrid.g.cs
+C:\Users\LENOVO\source\repos\Dashboard\Dashboard\obj\Debug\net6.0-windows\View\AddStudents.g.cs
+C:\Users\LENOVO\source\repos\Dashboard\Dashboard\obj\Debug\net6.0-windows\View\EditStudent.g.cs
+C:\Users\LENOVO\source\repos\Dashboard\Dashboard\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\LENOVO\source\repos\Dashboard\Dashboard\obj\Debug\net6.0-windows\Dashboard_Content.g.cs
+C:\Users\LENOVO\source\repos\Dashboard\Dashboard\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\LENOVO\source\repos\Dashboard\Dashboard\obj\Debug\net6.0-windows\Dashboard_MarkupCompile.cache
+C:\Users\LENOVO\source\repos\Dashboard\Dashboard\obj\Debug\net6.0-windows\Dashboard_MarkupCompile.lref
+C:\Users\LENOVO\source\repos\Dashboard\Dashboard\obj\Debug\net6.0-windows\App.baml
+C:\Users\LENOVO\source\repos\Dashboard\Dashboard\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\LENOVO\source\repos\Dashboard\Dashboard\obj\Debug\net6.0-windows\PopupUserControl.baml
+C:\Users\LENOVO\source\repos\Dashboard\Dashboard\obj\Debug\net6.0-windows\Styles\DataGrid.baml
+C:\Users\LENOVO\source\repos\Dashboard\Dashboard\obj\Debug\net6.0-windows\View\EditStudent.baml
+C:\Users\LENOVO\source\repos\Dashboard\Dashboard\obj\Debug\net6.0-windows\Dashboard.dll
+C:\Users\LENOVO\source\repos\Dashboard\Dashboard\obj\Debug\net6.0-windows\refint\Dashboard.dll
+C:\Users\LENOVO\source\repos\Dashboard\Dashboard\obj\Debug\net6.0-windows\Dashboard.pdb
+C:\Users\LENOVO\source\repos\Dashboard\Dashboard\bin\Debug\net6.0-windows\Assets\add-user.png
+C:\Users\LENOVO\source\repos\Dashboard\Dashboard\bin\Debug\net6.0-windows\Assets\user1.jpg
+C:\Users\LENOVO\source\repos\Dashboard\Dashboard\bin\Debug\net6.0-windows\Assets\User2.jpg
+C:\Users\LENOVO\source\repos\Dashboard\Dashboard\bin\Debug\net6.0-windows\Assets\delete-user.png
+C:\Users\LENOVO\source\repos\Dashboard\Dashboard\bin\Debug\net6.0-windows\Assets\edit-user.png
+C:\Users\LENOVO\source\repos\Dashboard\Dashboard\bin\Debug\net6.0-windows\Assets\logout.png
+C:\Users\LENOVO\source\repos\Dashboard\Dashboard\bin\Debug\net6.0-windows\Dashboard.exe
+C:\Users\LENOVO\source\repos\Dashboard\Dashboard\bin\Debug\net6.0-windows\Dashboard.deps.json
+C:\Users\LENOVO\source\repos\Dashboard\Dashboard\bin\Debug\net6.0-windows\Dashboard.runtimeconfig.json
+C:\Users\LENOVO\source\repos\Dashboard\Dashboard\bin\Debug\net6.0-windows\Dashboard.dll
+C:\Users\LENOVO\source\repos\Dashboard\Dashboard\bin\Debug\net6.0-windows\Dashboard.pdb
+C:\Users\LENOVO\source\repos\Dashboard\Dashboard\bin\Debug\net6.0-windows\Community.dll
+C:\Users\LENOVO\source\repos\Dashboard\Dashboard\bin\Debug\net6.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\LENOVO\source\repos\Dashboard\Dashboard\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+C:\Users\LENOVO\source\repos\Dashboard\Dashboard\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\LENOVO\source\repos\Dashboard\Dashboard\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\LENOVO\source\repos\Dashboard\Dashboard\obj\Debug\net6.0-windows\View\AddStudents.baml
+C:\Users\LENOVO\source\repos\Dashboard\Dashboard\obj\Debug\net6.0-windows\Dashboard.g.resources
+C:\Users\LENOVO\source\repos\Dashboard\Dashboard\obj\Debug\net6.0-windows\Dashboard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\Dashboard\Dashboard\obj\Debug\net6.0-windows\Dashboard.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\Dashboard\Dashboard\obj\Debug\net6.0-windows\Dashboard.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\Dashboard\Dashboard\obj\Debug\net6.0-windows\Dashboard.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Dashboard\Dashboard\obj\Debug\net6.0-windows\Dashboard.csproj.CopyComplete
+C:\Users\LENOVO\source\repos\Dashboard\Dashboard\obj\Debug\net6.0-windows\Dashboard.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\Dashboard\Dashboard\obj\Debug\net6.0-windows\ref\Dashboard.dll
+E:\Engineering\Acedemic\3 semester\Final Third Sem Projects\Desktop project-Final\Dashboard\Dashboard\Dashboard\obj\Debug\net6.0-windows\Dashboard.dll
+E:\Engineering\Acedemic\3 semester\Final Third Sem Projects\Desktop project-Final\Dashboard\Dashboard\Dashboard\obj\Debug\net6.0-windows\refint\Dashboard.dll
+E:\Engineering\Acedemic\3 semester\Final Third Sem Projects\Desktop project-Final\Dashboard\Dashboard\Dashboard\obj\Debug\net6.0-windows\Dashboard.pdb
+E:\Engineering\Acedemic\3 semester\Final Third Sem Projects\Desktop project-Final\Dashboard\Dashboard\Dashboard\bin\Debug\net6.0-windows\Assets\add-user.png
+E:\Engineering\Acedemic\3 semester\Final Third Sem Projects\Desktop project-Final\Dashboard\Dashboard\Dashboard\bin\Debug\net6.0-windows\Assets\user1.jpg
+E:\Engineering\Acedemic\3 semester\Final Third Sem Projects\Desktop project-Final\Dashboard\Dashboard\Dashboard\bin\Debug\net6.0-windows\Assets\User2.jpg
+E:\Engineering\Acedemic\3 semester\Final Third Sem Projects\Desktop project-Final\Dashboard\Dashboard\Dashboard\bin\Debug\net6.0-windows\Assets\delete-user.png
+E:\Engineering\Acedemic\3 semester\Final Third Sem Projects\Desktop project-Final\Dashboard\Dashboard\Dashboard\bin\Debug\net6.0-windows\Assets\edit-user.png
+E:\Engineering\Acedemic\3 semester\Final Third Sem Projects\Desktop project-Final\Dashboard\Dashboard\Dashboard\bin\Debug\net6.0-windows\Assets\logout.png
+E:\Engineering\Acedemic\3 semester\Final Third Sem Projects\Desktop project-Final\Dashboard\Dashboard\Dashboard\bin\Debug\net6.0-windows\Dashboard.exe
+E:\Engineering\Acedemic\3 semester\Final Third Sem Projects\Desktop project-Final\Dashboard\Dashboard\Dashboard\bin\Debug\net6.0-windows\Dashboard.deps.json
+E:\Engineering\Acedemic\3 semester\Final Third Sem Projects\Desktop project-Final\Dashboard\Dashboard\Dashboard\bin\Debug\net6.0-windows\Dashboard.runtimeconfig.json
+E:\Engineering\Acedemic\3 semester\Final Third Sem Projects\Desktop project-Final\Dashboard\Dashboard\Dashboard\bin\Debug\net6.0-windows\Dashboard.dll
+E:\Engineering\Acedemic\3 semester\Final Third Sem Projects\Desktop project-Final\Dashboard\Dashboard\Dashboard\bin\Debug\net6.0-windows\Dashboard.pdb
+E:\Engineering\Acedemic\3 semester\Final Third Sem Projects\Desktop project-Final\Dashboard\Dashboard\Dashboard\bin\Debug\net6.0-windows\Community.dll
+E:\Engineering\Acedemic\3 semester\Final Third Sem Projects\Desktop project-Final\Dashboard\Dashboard\Dashboard\bin\Debug\net6.0-windows\CommunityToolkit.Mvvm.dll
+E:\Engineering\Acedemic\3 semester\Final Third Sem Projects\Desktop project-Final\Dashboard\Dashboard\Dashboard\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+E:\Engineering\Acedemic\3 semester\Final Third Sem Projects\Desktop project-Final\Dashboard\Dashboard\Dashboard\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+E:\Engineering\Acedemic\3 semester\Final Third Sem Projects\Desktop project-Final\Dashboard\Dashboard\Dashboard\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+E:\Engineering\Acedemic\3 semester\Final Third Sem Projects\Desktop project-Final\Dashboard\Dashboard\Dashboard\obj\Debug\net6.0-windows\Dashboard.csproj.AssemblyReference.cache
+E:\Engineering\Acedemic\3 semester\Final Third Sem Projects\Desktop project-Final\Dashboard\Dashboard\Dashboard\obj\Debug\net6.0-windows\Styles\Button.baml
+E:\Engineering\Acedemic\3 semester\Final Third Sem Projects\Desktop project-Final\Dashboard\Dashboard\Dashboard\obj\Debug\net6.0-windows\MainWindow.g.cs
+E:\Engineering\Acedemic\3 semester\Final Third Sem Projects\Desktop project-Final\Dashboard\Dashboard\Dashboard\obj\Debug\net6.0-windows\PopupUserControl.g.cs
+E:\Engineering\Acedemic\3 semester\Final Third Sem Projects\Desktop project-Final\Dashboard\Dashboard\Dashboard\obj\Debug\net6.0-windows\Styles\DataGrid.g.cs
+E:\Engineering\Acedemic\3 semester\Final Third Sem Projects\Desktop project-Final\Dashboard\Dashboard\Dashboard\obj\Debug\net6.0-windows\View\AddStudents.g.cs
+E:\Engineering\Acedemic\3 semester\Final Third Sem Projects\Desktop project-Final\Dashboard\Dashboard\Dashboard\obj\Debug\net6.0-windows\View\EditStudent.g.cs
+E:\Engineering\Acedemic\3 semester\Final Third Sem Projects\Desktop project-Final\Dashboard\Dashboard\Dashboard\obj\Debug\net6.0-windows\App.g.cs
+E:\Engineering\Acedemic\3 semester\Final Third Sem Projects\Desktop project-Final\Dashboard\Dashboard\Dashboard\obj\Debug\net6.0-windows\Dashboard_Content.g.cs
+E:\Engineering\Acedemic\3 semester\Final Third Sem Projects\Desktop project-Final\Dashboard\Dashboard\Dashboard\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+E:\Engineering\Acedemic\3 semester\Final Third Sem Projects\Desktop project-Final\Dashboard\Dashboard\Dashboard\obj\Debug\net6.0-windows\Dashboard_MarkupCompile.cache
+E:\Engineering\Acedemic\3 semester\Final Third Sem Projects\Desktop project-Final\Dashboard\Dashboard\Dashboard\obj\Debug\net6.0-windows\Dashboard_MarkupCompile.lref
+E:\Engineering\Acedemic\3 semester\Final Third Sem Projects\Desktop project-Final\Dashboard\Dashboard\Dashboard\obj\Debug\net6.0-windows\App.baml
+E:\Engineering\Acedemic\3 semester\Final Third Sem Projects\Desktop project-Final\Dashboard\Dashboard\Dashboard\obj\Debug\net6.0-windows\MainWindow.baml
+E:\Engineering\Acedemic\3 semester\Final Third Sem Projects\Desktop project-Final\Dashboard\Dashboard\Dashboard\obj\Debug\net6.0-windows\PopupUserControl.baml
+E:\Engineering\Acedemic\3 semester\Final Third Sem Projects\Desktop project-Final\Dashboard\Dashboard\Dashboard\obj\Debug\net6.0-windows\Styles\DataGrid.baml
+E:\Engineering\Acedemic\3 semester\Final Third Sem Projects\Desktop project-Final\Dashboard\Dashboard\Dashboard\obj\Debug\net6.0-windows\View\AddStudents.baml
+E:\Engineering\Acedemic\3 semester\Final Third Sem Projects\Desktop project-Final\Dashboard\Dashboard\Dashboard\obj\Debug\net6.0-windows\View\EditStudent.baml
+E:\Engineering\Acedemic\3 semester\Final Third Sem Projects\Desktop project-Final\Dashboard\Dashboard\Dashboard\obj\Debug\net6.0-windows\Dashboard.g.resources
+E:\Engineering\Acedemic\3 semester\Final Third Sem Projects\Desktop project-Final\Dashboard\Dashboard\Dashboard\obj\Debug\net6.0-windows\Dashboard.GeneratedMSBuildEditorConfig.editorconfig
+E:\Engineering\Acedemic\3 semester\Final Third Sem Projects\Desktop project-Final\Dashboard\Dashboard\Dashboard\obj\Debug\net6.0-windows\Dashboard.AssemblyInfoInputs.cache
+E:\Engineering\Acedemic\3 semester\Final Third Sem Projects\Desktop project-Final\Dashboard\Dashboard\Dashboard\obj\Debug\net6.0-windows\Dashboard.AssemblyInfo.cs
+E:\Engineering\Acedemic\3 semester\Final Third Sem Projects\Desktop project-Final\Dashboard\Dashboard\Dashboard\obj\Debug\net6.0-windows\Dashboard.csproj.CoreCompileInputs.cache
+E:\Engineering\Acedemic\3 semester\Final Third Sem Projects\Desktop project-Final\Dashboard\Dashboard\Dashboard\obj\Debug\net6.0-windows\Dashboard.csproj.CopyComplete
+E:\Engineering\Acedemic\3 semester\Final Third Sem Projects\Desktop project-Final\Dashboard\Dashboard\Dashboard\obj\Debug\net6.0-windows\Dashboard.genruntimeconfig.cache
+E:\Engineering\Acedemic\3 semester\Final Third Sem Projects\Desktop project-Final\Dashboard\Dashboard\Dashboard\obj\Debug\net6.0-windows\ref\Dashboard.dll

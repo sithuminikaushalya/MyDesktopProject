@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Dashboard</id>
+    <version>1.0.0</version>
+    <authors>Dashboard</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0-windows7.0">
+        <dependency id="Community" version="1.1.0-RC" exclude="Build,Analyzers" />
+        <dependency id="CommunityToolkit.Mvvm" version="8.2.0" exclude="Build,Analyzers" />
+        <dependency id="MaterialDesignThemes" version="4.8.1-ci249" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net6.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WPF" />
+      </group>
+    </frameworkReferences>
+    <contentFiles>
+      <files include="any/net6.0-windows7.0/Assets/add-user.png" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/Assets/user1.jpg" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/Assets/User2.jpg" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/Assets/delete-user.png" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/Assets/edit-user.png" buildAction="Content" />
+      <files include="any/net6.0-windows7.0/Assets/logout.png" buildAction="Content" />
+    </contentFiles>
+  </metadata>
+  <files>
+    <file src="C:\Users\LENOVO\source\repos\Dashboard\Dashboard\bin\Debug\net6.0-windows\Dashboard.runtimeconfig.json" target="lib\net6.0-windows7.0\Dashboard.runtimeconfig.json" />
+    <file src="C:\Users\LENOVO\source\repos\Dashboard\Dashboard\bin\Debug\net6.0-windows\Dashboard.dll" target="lib\net6.0-windows7.0\Dashboard.dll" />
+    <file src="C:\Users\LENOVO\source\repos\Dashboard\Dashboard\Assets\add-user.png" target="content\Assets\add-user.png" />
+    <file src="C:\Users\LENOVO\source\repos\Dashboard\Dashboard\Assets\add-user.png" target="contentFiles\any\net6.0-windows7.0\Assets\add-user.png" />
+    <file src="C:\Users\LENOVO\source\repos\Dashboard\Dashboard\Assets\user1.jpg" target="content\Assets\user1.jpg" />
+    <file src="C:\Users\LENOVO\source\repos\Dashboard\Dashboard\Assets\user1.jpg" target="contentFiles\any\net6.0-windows7.0\Assets\user1.jpg" />
+    <file src="C:\Users\LENOVO\source\repos\Dashboard\Dashboard\Assets\User2.jpg" target="content\Assets\User2.jpg" />
+    <file src="C:\Users\LENOVO\source\repos\Dashboard\Dashboard\Assets\User2.jpg" target="contentFiles\any\net6.0-windows7.0\Assets\User2.jpg" />
+    <file src="C:\Users\LENOVO\source\repos\Dashboard\Dashboard\Assets\delete-user.png" target="content\Assets\delete-user.png" />
+    <file src="C:\Users\LENOVO\source\repos\Dashboard\Dashboard\Assets\delete-user.png" target="contentFiles\any\net6.0-windows7.0\Assets\delete-user.png" />
+    <file src="C:\Users\LENOVO\source\repos\Dashboard\Dashboard\Assets\edit-user.png" target="content\Assets\edit-user.png" />
+    <file src="C:\Users\LENOVO\source\repos\Dashboard\Dashboard\Assets\edit-user.png" target="contentFiles\any\net6.0-windows7.0\Assets\edit-user.png" />
+    <file src="C:\Users\LENOVO\source\repos\Dashboard\Dashboard\Assets\logout.png" target="content\Assets\logout.png" />
+    <file src="C:\Users\LENOVO\source\repos\Dashboard\Dashboard\Assets\logout.png" target="contentFiles\any\net6.0-windows7.0\Assets\logout.png" />
+  </files>
+</package>
